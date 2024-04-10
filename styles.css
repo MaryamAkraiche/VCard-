@@ -5,7 +5,6 @@ body {
 
 main {
     background-color: pink;
-    width: 80%;
     margin: 0 auto;
     padding: 50px;
     display: flex;
