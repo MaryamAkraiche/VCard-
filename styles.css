@@ -14,15 +14,6 @@ main {
     position: relative;
 }
 
-/* main aside {
-    position: relative;
-}
-
-aside img {
-    position: absolute; 
-    top: -150px; 
-} */
-
 .portfolio {
     color: #28a745;
     padding: 10px 20px;
@@ -30,6 +21,7 @@ aside img {
     cursor: pointer;
     font-weight: bold;
 }
+
 .resume {
     background-color: #28a745;
     color: white;
@@ -55,52 +47,3 @@ i {
     font-size: 30px;
     margin-right: 20px;
 }
-
-/* body {
-    background-color: white;
-    display: flex;
-}
-
-header img {
-    width: 200px;
-    height: auto;
-}
-
-main {
-    background-color: pink;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-
-p {
-    font-family:  Arial, sans-serif;
-}
-h4 {
-    font-family: Arial, sans-serif;
-}
-
-.portfolio {
-    color: #28a745;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-.resume {
-    background-color: #28a745;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-ul {
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-}
-
-i {
-    font-size: 30px;
-    margin-right: 20px;
-} */
